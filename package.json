@@ -1,6 +1,6 @@
 {
   "name": "@absolutejs/vulnerabilities-kev",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CISA Known Exploited Vulnerabilities catalog ingestion for AbsoluteJS.",
   "type": "module",
   "license": "BSL-1.1",
